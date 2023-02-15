@@ -1,0 +1,236 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "72db3085-0814-4585-91ce-a4eee5253a00",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "width": "",
+          "height": "45px",
+          "paddingLeft": "10px",
+          "color": "#8d8d8d",
+          "fontFamily": "DM Sans",
+          "fontSize": "20px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "72db3085-0814-4585-91ce-a4eee5253a00",
+    "refId": "b730b4c9-a508-4c4b-a73f-16c1c60e3a89"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "05fb2630-911e-4f53-ba93-eb46be4ac23c",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "837 W. Marshall Lane Marshalltown, IA 50158, Los Angeles"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "childId": "05fb2630-911e-4f53-ba93-eb46be4ac23c",
+    "refId": "b730b4c9-a508-4c4b-a73f-16c1c60e3a89"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "7059bd97-ddba-4e51-a0df-05cf7a2e5f15",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "width": "19px",
+          "height": "50px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "7059bd97-ddba-4e51-a0df-05cf7a2e5f15",
+    "refId": "9c5bc322-1dda-4447-9263-6af9cb7da261"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "90031a09-7cb0-489b-b741-22dbe98416c8",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/pointer.svg"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "childId": "90031a09-7cb0-489b-b741-22dbe98416c8",
+    "refId": "9c5bc322-1dda-4447-9263-6af9cb7da261"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "14beba91-d8f1-4d6d-b8ed-90270dbdaa08",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex",
+          "width": "60%",
+          "height": "50px",
+          "flexDirection": "row",
+          "justifyContent": "space-around",
+          "alignItems": "flex-start"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "14beba91-d8f1-4d6d-b8ed-90270dbdaa08",
+    "refId": "e86a0e23-2155-4783-8f8b-3e1ef5802294"
+  },
+  {
+    "id": "59ea6210-5ff1-484f-87f4-314f58d8ab72",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "b730b4c9-a508-4c4b-a73f-16c1c60e3a89",
+    "childId": "59ea6210-5ff1-484f-87f4-314f58d8ab72"
+  },
+  {
+    "id": "2e49ef33-c3d2-44aa-9e8b-daefda3aebb6",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "9c5bc322-1dda-4447-9263-6af9cb7da261",
+    "childId": "2e49ef33-c3d2-44aa-9e8b-daefda3aebb6"
+  },
+  {
+    "id": "7ec92dab-02d3-4636-857d-e6403b09bbad",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "e86a0e23-2155-4783-8f8b-3e1ef5802294",
+    "childId": "7ec92dab-02d3-4636-857d-e6403b09bbad"
+  },
+  {
+    "id": "b730b4c9-a508-4c4b-a73f-16c1c60e3a89",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "e86a0e23-2155-4783-8f8b-3e1ef5802294",
+        "index": 2
+      },
+      "alias": "TextBox45"
+    }
+  },
+  {
+    "id": "9c5bc322-1dda-4447-9263-6af9cb7da261",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "e86a0e23-2155-4783-8f8b-3e1ef5802294",
+        "index": 1
+      },
+      "alias": "Image19"
+    }
+  },
+  {
+    "id": "e86a0e23-2155-4783-8f8b-3e1ef5802294",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "Flex47"
+    }
+  }
+]
